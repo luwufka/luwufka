@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/luwufka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luwufka" height="30" width="40" /></a>
+<a href="https://youtube.com/@luwufka?si=4o5a9JZggmF89fLS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luwufka" height="30" width="40" /></a>
 <a href="https://discord.gg/snowluwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snowluwu" height="30" width="40" /></a>
 </p>
 
