@@ -2,7 +2,7 @@
 <!-- age and name -->
 [![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/)
 
-**[ Software Dev × Game Dev × Content Maker ]**
+**[ Fullstack Developer ]**
 
 ## 👋 about
 **Привет! Все начиналось с моего детского увлечения в работе Windows.**
