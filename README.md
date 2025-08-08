@@ -3,7 +3,7 @@
 [![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/)
 
 ## 👋 about
-**Привет! Все начиналось с моего детского увлечения в работе Windows.**
+**Привет!**
 
 Сейчас я делаю: утилиты, ботов, сайты, игры и многое другое!
 
