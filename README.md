@@ -4,7 +4,7 @@
 
 ## ℹ️ Info
 **Привет! Я разрабатываю софт, сайты, ботов и прочее.**
-> в общем, занимаюсь чем не скучно.
+> в общих чертах, занимаюсь тем, что не скучно.
 
 ### Contacts:
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luwufka)
