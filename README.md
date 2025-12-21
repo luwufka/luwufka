@@ -5,6 +5,7 @@
 ## ℹ️ Info
 **Привет! Я разрабатываю софт, сайты, ботов и прочее.**
 > в общих чертах, занимаюсь тем, что не скучно.
+<img width="384" height="501" alt="image" src="https://github.com/user-attachments/assets/4f8e7e57-6537-4127-82ea-1cd66b209b78" />
 
 ### Contacts:
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luwufka)
