@@ -1,6 +1,6 @@
 # <img src="https://luwufka.ru/favicon.ico" width="28" height="28"> luwufka
 <!-- age and name -->
-[![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/)
+[![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/) [![orientation badge](https://img.shields.io/badge/Orientation-Gay-blue.svg)](https://shields.io/)
 
 ## ℹ️ Info
 **Привет! Я разрабатываю софт, сайты, ботов и прочее.**
