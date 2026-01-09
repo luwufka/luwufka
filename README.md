@@ -1,8 +1,21 @@
 <!-- About -->
 ## <img src="https://luwufka.ru/favicon.ico" width="18" height="18"> Никита (luwufka)
-**C#-разработчик · Full-Stack**
+```bash
+$ npm install ideas
 
-[![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/)
+> ideas@1.0.0 install
+> generating concepts...
+
+✔ ideas installed succesfully
+✔ websites created
+✔ applications deployed
+✔ side-projects started
+```
+**C#-разработчик · Full-Stack · Building stuff**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luwufka&label=Profile%20views&color=0e75b6&style=flat" alt="luwufka" />
+</p>
 
 ## 🛠️ Стек
 - **Основной:**
