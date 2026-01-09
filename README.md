@@ -1,6 +1,6 @@
 <!-- About -->
 ## <img src="https://luwufka.ru/favicon.ico" width="18" height="18"> Никита (luwufka)
-**C#-разработчик · Full-Stack · R&D**
+**C#-разработчик · Full-Stack**
 
 [![name badge](https://img.shields.io/badge/Name-Nikita-red.svg)](https://shields.io/) [![age badge](https://img.shields.io/badge/Age-16-blue.svg)](https://shields.io/)
 
