@@ -7,9 +7,10 @@ $ npm install ideas
 > generating concepts...
 
 ✔ ideas installed succesfully
-✔ websites created
-✔ applications deployed
-✔ side-projects started
+
+- websites created
+- applications deployed
+- side-projects started
 ```
 **C#-разработчик · Full-Stack · Building stuff**
 
